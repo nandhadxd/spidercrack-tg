@@ -10,4 +10,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x spider
-    - run: sudo ./spider 91.108.13.20 32002 60
+    - run: sudo ./spider 91.108.17.34 32001 69
